@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adarsh
-- 👀 I’m interested in Web Development & Machine Laerning.
+- 👀 I’m interested in Web Development & Machine Learning.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on any open source project to build my CV strong.
 - 📫 You can mail me at (Adarshh.addi@gmail.com).
