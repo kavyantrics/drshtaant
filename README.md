@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a Full Stack Engineer @InviGrid<br>I mostly work with MERN stack but some time with PERN too. 
+I'm currently a Software Engineer @SoftWay Solutions<br>I mostly work with MERN stack with AWS and GCP. 
 
 
 ## 🌐 Socials:
